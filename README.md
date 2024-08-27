@@ -1,7 +1,7 @@
 #### Sejam bem vindos ao meu perfil 🖤
-~~Meu nome é Vinicius Dalbosco Fabichacki~
+-Meu nome é Vinicius Dalbosco Fabichacki-
 
-~Tenho 15 anos e moro em Braganey PR
+-Tenho 15 anos e moro em Braganey PR
 
 - 🔭 Estou estudando na [Alura](https://www.alura.com.br)
 

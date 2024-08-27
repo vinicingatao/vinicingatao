@@ -1,14 +1,17 @@
 #### Sejam bem vindos ao meu perfil 🖤
-**vinicingatao/vinicingatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~Meu nome é Vinicius Dalbosco Fabichacki~
 
-Here are some ideas to get you started:
+~Tenho 15 anos e moro em Braganey PR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou estudando na [Alura](https://www.alura.com.br)
+
+-Estou desenvolvendo na linguagem JavaScript 
+ 
+-Utilizo esse espaço para minha organização e para compartilhar meus projetos desenvolvidos 
+-### Você entrará em contato comigo 
+
+- @vinicius.fabichacki@escola.pr.gov.br
+
+-@viniciusdalboscofabichacki
+
+![]![image](https://github.com/user-attachments/assets/d9a1d0b7-e84b-4760-9e72-6377a2a8e428)
